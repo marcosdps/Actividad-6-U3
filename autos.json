@@ -1,0 +1,54 @@
+{
+    "0": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Nuevo",
+                "__atributos__": {
+                    "modelo": "AS25",
+                    "cantPuertas": 5,
+                    "color": "Rojo",
+                    "precioBase": 123232323.0,
+                    "marca": "Nissan",
+                    "version": "Full"
+                }
+            }
+        },
+        "siguiente": 2991933324368
+    },
+    "1": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Nuevo",
+                "__atributos__": {
+                    "modelo": "IXR",
+                    "cantPuertas": 5,
+                    "color": "Blanco",
+                    "precioBase": 12323213.0,
+                    "marca": "Nissan",
+                    "version": "Base"
+                }
+            }
+        },
+        "siguiente": 2991918822480
+    },
+    "2": {
+        "__class__": "Nodo",
+        "__atributos__": {
+            "auto": {
+                "__class__": "Usado",
+                "__atributos__": {
+                    "modelo": "ESR-25o8",
+                    "cantPuertas": 2,
+                    "color": "Negro",
+                    "precioBase": 32323443.0,
+                    "patente": "ABF-545",
+                    "ano": 2018,
+                    "kilometraje": 12323.0
+                }
+            }
+        },
+        "siguiente": null
+    }
+}
